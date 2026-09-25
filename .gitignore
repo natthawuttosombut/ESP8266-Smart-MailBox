@@ -1,0 +1,9 @@
+# Secrets - never commit
+secrets.h
+
+# Build / editor
+build/
+.vscode/ipch/
+.pio/
+*.bin
+*.elf
