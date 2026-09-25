@@ -1,5 +1,4 @@
-#ifndef SECRETS_H
-#define SECRETS_H
+#pragma once
 
 // คัดลอกไฟล์นี้เป็น secrets.h แล้วใส่ค่าจริง (secrets.h ถูก gitignore ไว้)
 
@@ -12,4 +11,3 @@
 #define FIREBASE_HOST "your-project-default-rtdb.firebaseio.com"
 #define FIREBASE_AUTH "YOUR_FIREBASE_DATABASE_SECRET"
 
-#endif
